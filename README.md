@@ -1,7 +1,7 @@
 # dropdown-calender
+
 Simple Date, Month, Year Dropdown with Vanilla Javascript
 
-/*
 	Call the method and parameter, if you want tags around your output
 	You can leave it empty of you don't want tags
 	month() is the method and option is the tag. 
@@ -28,5 +28,5 @@ Simple Date, Month, Year Dropdown with Vanilla Javascript
 	Example:
 	For date use: 
 		HTML = <ul class="bear-month"></ul> or <ul class="bear-short-month"></ul> to short the month name
-		Javascript = dates('li');	
-*/
+		Javascript = dates('li');
+		
